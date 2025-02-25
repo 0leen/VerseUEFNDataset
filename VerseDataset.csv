@@ -1,0 +1,5 @@
+id,code_snippet,description
+1,"fn main() { println!(\"Hello, Verse!\"); }","Basic Verse program to print a greeting"
+  2,"fn add(a: i32, b: i32) -> i32 { a + b }","Function to add two integers"
+  3,"fn factorial(n: i32) -> i32 { if n <= 1 { 1 } else { n * factorial(n - 1) } }","Recursive function to calculate factorial of a number"
+  4,"fn is_even(n: i32) -> bool { n % 2 == 0 }","Function to check if a number is even"
